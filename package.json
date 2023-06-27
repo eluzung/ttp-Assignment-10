@@ -1,0 +1,14 @@
+{
+  "name": "ttp-assignment-10",
+  "version": "1.0.0",
+  "description": "- **Due** January 20th, 2022 by 10:00:00AM - **Points** 4 - **Submitting** Fill out all of the appropriate information in the Bootcamp Tracker Google Sheet (see pinned items in the Cohort Slack Channel)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.1"
+  }
+}
