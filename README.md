@@ -27,7 +27,7 @@ A few useful resources that are useful for this assignment:
 
 [Download](https://www.postgresql.org/download/) and install PostgreSQL on your devices (for Mac users I recommend the [app](https://postgresapp.com/))
 
-- [ ] Using Figma/Lucidchart, create an ER Diagram of your database you plan to create
+- [x] Using Figma/Lucidchart, create an ER Diagram of your database you plan to create
 - [ ] Create a brand new database with a specific topic (eg pizza, students, employees, etc.) with:
   - [ ] At least four different tables.
   - [ ] Each table should have a primary key
